@@ -1,0 +1,8 @@
+sources:
+  "plexus-registry-1.0-alpha-3.tar.gz:"	dd3fe3ea9c4cff754ee1155f07d2a13d609e8725
+  "plexus-registry-1.0-jpp-depmap.xml:"	e0e14a8c65e87ef5da8c355dda4e14fed028733a
+  "plexus-registry-api-build.xml:"	485ce633a2eb9653ddd3b96750097a536649ccfc
+  "plexus-registry-commons-build.xml:"	0b3927508fc9190b2c7d7463d57d6b1171977e68
+  "plexus-registry-naming-build.xml:"	e1bd361d56709249bda10a9ecf886426d882563d
+  "plexus-registry-settings.xml:"	50f1727477a1f8a63f96b2bc48a7ac714c94b2af
+  "plexus-registry-test-build.xml:"	bce57ea510a7a5bdf2f56ffd86c54a75d47c4879
