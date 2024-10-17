@@ -48,7 +48,7 @@ Epoch:          0
 Summary:        Plexus Registry Component
 License:        Apache Software License 2.0
 Group:          Development/Java
-URL:            http://plexus.codehaus.org/
+URL:            https://plexus.codehaus.org/
 Source0:        %{name}-%{namedversion}.tar.gz
 # svn export http://svn.codehaus.org/plexus/plexus-components/tags/plexus-registry-1.0-alpha-3/
 
